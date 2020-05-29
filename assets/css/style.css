@@ -249,6 +249,7 @@ header h1 {
 
     .contact h2 {
         color: #fce138;
+        margin: 20px;
     }
 
     .contact-info iframe {
