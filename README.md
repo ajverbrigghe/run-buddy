@@ -1,4 +1,4 @@
-# Run Buddy Inc2.
+# Run Buddy Inc.
 
 ## PURPOSE
 A website that offers finess training services.
